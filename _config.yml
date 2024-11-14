@@ -1,3 +1,53 @@
-title: Kevin James
-description: Software Engineer/Computer Scientist pursuing Master's in Engineering Management & Leadership with Data Science Specialization
-theme: jekyll-theme-minimal
+# Basic site settings
+title: "Kevin R. James - Resume"
+description: "Kevin R. James' professional resume showcasing experience, education, and skills."
+baseurl: "" # Leave blank for root
+url: "https://your-gitlab-username.gitlab.io/your-repo-name"
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable: true
+
+# Theme - Use a simple, clean theme that enhances readability (e.g., Jekyll's "minima" theme or a custom theme)
+theme: minima
+
+# Optional: Custom CSS for additional styling
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# CSS file (for custom styles)
+sass:
+  style: compressed
+  sass_dir: _sass
+
+# Exclude from processing
+exclude:
+  - README.md
+  - LICENSE
+
+# Custom CSS overrides (add this in a CSS file within your repository, e.g., `assets/css/custom.css`)
+custom_css: "/assets/css/custom.css"
+
+# Navigation menu setup (optional)
+header_pages:
+  - /index.md
+
+# Custom Markdown styling (optional): Configure a CSS file with styles to format each section distinctly
+# In assets/css/custom.css, you can add CSS styling like:
+# .header { background-color: #f4f4f4; padding: 1rem; border-radius: 6px; }
+# .section-title { color: #0056b3; font-weight: bold; margin-top: 1.5rem; }
+
+# SEO and social media settings
+social_links:
+  linkedin: "https://www.linkedin.com/in/kevinrjames"
+  email: "kevinrjamesii@outlook.com"
+  github: "https://github.com/kevinrjames"
+  twitter: "https://twitter.com/kevinjames"
+  
+# Optional: Google Analytics or other tracking
+google_analytics: UA-XXXXXXXXX-X
