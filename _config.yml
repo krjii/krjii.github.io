@@ -37,6 +37,8 @@ custom_css: "/assets/css/custom.css"
 header_pages:
   - /index.md
 
+custom_css: "/assets/css/custom.css"
+
 # Custom Markdown styling (optional): Configure a CSS file with styles to format each section distinctly
 # In assets/css/custom.css, you can add CSS styling like:
 # .header { background-color: #f4f4f4; padding: 1rem; border-radius: 6px; }
