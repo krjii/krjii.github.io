@@ -7,7 +7,7 @@ title: "Kevin R. James - Resume"
   <h1>Kevin R. James</h1>
   <p>
     <strong>Email:</strong> <a href="mailto:kevinrjamesii@outlook.com">kevinrjamesii@outlook.com</a> |  
-    [![LinkedIn](assets/icons/linkedin.png)](https://www.linkedin.com/in/kevinrjamesii)
+    [![LinkedIn](assets/linkedin_img.icons8.png)](https://www.linkedin.com/in/kevinrjamesii)
   </p>
 </div>
 
