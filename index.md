@@ -5,7 +5,10 @@ title: "Kevin R. James - Resume"
 
 <div class="header">
   <h1>Kevin R. James</h1>
-  <p><strong>Email:</strong> <a href="mailto:kevinrjamesii@outlook.com">kevinrjamesii@outlook.com</a> | <strong>Phone:</strong> 337-912-4186 | [LinkedIn](https://www.linkedin.com/in/kevinrjames)</p>
+  <p>
+    <strong>Email:</strong> <a href="mailto:kevinrjamesii@outlook.com">kevinrjamesii@outlook.com</a> |  
+    [![LinkedIn](assets/icons/linkedin.png)](https://www.linkedin.com/in/kevinrjamesii)
+  </p>
 </div>
 
 ---
