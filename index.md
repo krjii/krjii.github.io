@@ -1,8 +1,3 @@
-# krjii.github.io
-
-# Kevin R. James
-**Email:** [kevinrjamesii@outlook.com](mailto:kevinrjamesii@outlook.com) | [LinkedIn Profile](#) | **Location:** Houston, TX
-
 ---
 layout: default
 title: "Kevin R. James - Resume"
