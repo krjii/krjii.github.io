@@ -5,9 +5,9 @@ title: "Kevin R. James - Resume"
 
 ## Kevin R. James
 
-[![Email](/assets/icons/email_icons8.png){: style="height: 20px;"}](mailto:kevinrjamesii@outlook.com)
-[![LinkedIn](/assets/icons/linkedin_img.icons8.png){: style="height: 20px;"}](https://www.linkedin.com/in/kevinrjamesii)
-[![GitHub](/assets/icons/github_icons8.png){: style="height: 20px;"}](https://github.com/kevinrjames)
+[![Email](/assets/icons/email_icons8.png){: style="height: 30px;"}](mailto:kevinrjamesii@outlook.com)
+[![LinkedIn](/assets/icons/linkedin_img.icons8.png){: style="height: 30px;"}](https://www.linkedin.com/in/kevinrjamesii)
+[![GitHub](/assets/icons/github_icons8.png){: style="height: 30px;"}](https://github.com/kevinrjames)
 
 ---
 
