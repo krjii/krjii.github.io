@@ -3,6 +3,16 @@ layout: resume_with_sidebar
 title: "Kevin R. James - Resume"
 ---
 
+<div class="header">
+  <h1>Kevin R. James</h1>
+  <p>
+    <strong>Email:</strong> <a href="mailto:kevinrjamesii@outlook.com">kevinrjamesii@outlook.com</a> |
+    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kevinrjamesii" target="_blank">kevinrjamesii</a>
+  </p>
+</div>
+
+---
+
 ### 🎯 Purpose
 > **Empowering organizations to thrive in complex, high-stakes environments through strategic engineering and project leadership.**  
 > Leveraging expertise in systems engineering, software development, and product management, I drive innovation, optimize operational efficiency, and align projects with long-term business objectives.
@@ -37,10 +47,34 @@ Strategic leader in **systems engineering, software development,** and **project
 ---
 
 ### 💡 Core Competencies
-- **Systems Engineering**: Requirements, Model-Based Engineering, System Architecture, Risk Management
-- **Project Management**: Strategic Planning, KPI Development, Stakeholder Engagement
-- **Data Science**: Data Cleaning, Analysis, Modeling, Advanced Visualization
-- **Software Development**: Design Patterns, Distributed Systems, Web/Desktop Applications
+
+#### Product/Project Management
+- **Strategic Planning & Roadmapping**: Defining product and project roadmaps aligned with business goals.
+- **Requirements Gathering & Prioritization**: Engaging stakeholders to identify needs and prioritize feature development.
+- **Risk Management & Mitigation**: Proactively identifying and addressing potential risks to ensure project success.
+- **Agile & Lean Methodologies**: Expertise in Scrum, Kanban, and Lean practices to optimize project delivery and team efficiency.
+- **Stakeholder Engagement & Communication**: Building strong relationships and maintaining clear communication with all project stakeholders.
+
+#### Full Development Lifecycle
+- **SDLC Management**: Comprehensive knowledge of each SDLC phase, from initial planning through deployment and maintenance.
+- **Automated Testing & Continuous Integration (CI/CD)**: Implementing CI/CD pipelines to enhance release quality and frequency.
+- **Requirements Engineering**: Structuring and managing detailed technical and functional requirements.
+- **Quality Assurance & Code Review**: Ensuring product quality and maintainability through rigorous testing and peer reviews.
+- **Documentation & Knowledge Transfer**: Creating and managing clear documentation to support handoffs and long-term project sustainability.
+
+#### Architecture of Complex Systems
+- **System Design & Architecture**: Designing scalable, modular, and resilient architectures to handle complex requirements.
+- **Model-Based Systems Engineering (MBSE)**: Utilizing MBSE techniques and tools (e.g., Cameo) for detailed system modeling and traceability.
+- **Integration & Interoperability**: Ensuring system components work seamlessly within broader architectures and with external systems.
+- **Performance Optimization**: Enhancing system performance through efficient algorithms, architecture, and resource management.
+- **Compliance & Standards**: Ensuring systems adhere to industry standards (e.g., DO-178C) and regulatory requirements.
+
+#### Leadership
+- **Team Development & Mentorship**: Guiding and developing team members to reach their full potential.
+- **Cross-Functional Collaboration**: Working effectively with diverse teams, from engineering to business stakeholders.
+- **Decision-Making & Problem-Solving**: Making informed decisions and solving complex issues under pressure.
+- **Change Management**: Leading teams through change, ensuring alignment, and minimizing disruption.
+- **Vision & Goal Setting**: Setting clear objectives aligned with the organization's mission and driving towards achievement.
 
 ---
 
