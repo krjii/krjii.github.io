@@ -84,6 +84,13 @@ Strategic leader in **systems engineering, software development,** and **project
 **Software Engineer, Federal Aviation Administration | 2013 – 2016**  
 - Developed air traffic control software with C#; reduced the bug backlog by 40% through implementation of architectural best practices.
 
+#### NOAA – Engineering Intern | 2009 – 2011  
+- Assisted with developing requirement specifications, concept definitions, cost analysis, and performance trade-offs for various FPGA system architectures, assessing the feasibility of converting legacy analog radar technologies to digital systems.  
+- Generated parts lists, component specifications, Interface I/O documentation, electrical schematics, and functional simulations to support FPGA-based radar system development using Xilinx Spartan 6 FPGA and VHDL.  
+- Contributed to the development of the NEXRAD system bus interface and Analog-to-Digital signal processing algorithms using Xilinx Spartan 6 FPGA and VHDL technology.  
+- Analyzed electrical schematics for radar systems, soldered and repaired analog circuits, and performed circuit analysis using multi-meters and Analog/Digital Oscilloscopes, ensuring hardware met schematic specifications.
+
+
 ---
 
 ### 🤝 Professional Memberships & Volunteer Experience
