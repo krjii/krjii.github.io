@@ -7,30 +7,42 @@ body {
   justify-content: center;
 }
 
+/* Theme Colors */
+:root {
+  --primary-bg: #ffffff;
+  --sidebar-bg: #f7f7f7;
+  --primary-text: #000000;
+  --accent-text: #b38600; /* Gold */
+  --border-color: #333333;
+}
+
+/* Layout */
 .container {
   display: flex;
   max-width: 1200px;
   width: 100%;
   padding: 1rem;
   box-sizing: border-box;
+  background-color: var(--primary-bg);
+  color: var(--primary-text);
 }
 
 /* Sidebar Styling */
 .sidebar {
   width: 30%;
-  background-color: #f4f4f4;
+  background-color: var(--sidebar-bg);
   padding: 1rem;
-  border-right: 2px solid #007acc;
+  border-right: 2px solid var(--border-color);
   box-sizing: border-box;
 }
 
 .sidebar h2 {
-  color: #0056b3;
+  color: var(--accent-text);
 }
 
 .sidebar h3 {
   margin-top: 1.5rem;
-  color: #343a40;
+  color: var(--border-color);
 }
 
 .sidebar ul {
@@ -42,6 +54,15 @@ body {
   margin: 0.5rem 0;
 }
 
+.sidebar a {
+  text-decoration: none;
+  color: var(--accent-text);
+}
+
+.sidebar a:hover {
+  color: var(--border-color);
+}
+
 /* Main Content Styling */
 .content {
   width: 70%;
@@ -50,8 +71,18 @@ body {
 }
 
 .content h2, .content h3 {
-  color: #343a40;
+  color: var(--border-color);
   margin-top: 1.5rem;
+}
+
+/* Link Styling */
+a {
+  color: var(--accent-text);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--border-color);
 }
 
 /* Responsive Design */
@@ -64,10 +95,3 @@ body {
     width: 100%;
   }
 }
-
-.sidebar p i {
-  margin-right: 5px;
-  color: #007acc;
-}
-
-
