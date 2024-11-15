@@ -5,9 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="/assets/css/style.css">
-  <!-- Include html2pdf.js -->
 </head>
-
 <body>
   <div class="container">
     <!-- Sidebar Section -->
@@ -45,9 +43,11 @@
       </ul>
     </aside>
 
-    <!-- Main Content Section (Markdown Content from index.md) -->
+    <!-- Main Content Section -->
     <main class="content">
-      {{ content }}
+      <section>
+        {{ content }}
+      </section>
     </main>
   </div>
 </body>

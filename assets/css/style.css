@@ -21,6 +21,7 @@ body {
   background-color: #2c2c2c;
   padding: 1.5rem;
   color: #f0e6d2;
+  box-sizing: border-box;
 }
 
 .sidebar h2.sidebar-title {
@@ -86,25 +87,81 @@ body {
   color: #333333;
 }
 
-/* Link Styling */
-a {
-  color: #b38600;
-  text-decoration: none;
+/* Resume Section Styling */
+.resume-section {
+  width: 100%;
+  background-color: #f9f9f9;
+  padding: 2rem 0;
+  box-sizing: border-box;
 }
 
-a:hover {
-  color: #8c6a00;
+.resume-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #b38600;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.resume-columns {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.resume-column {
+  flex: 1;
+  min-width: 300px;
+}
+
+.resume-item {
+  margin-bottom: 2rem;
+}
+
+.resume-item h4 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333333;
+}
+
+.resume-item h5 {
+  font-size: 1rem;
+  color: #666666;
+  margin-bottom: 0.5rem;
+}
+
+.resume-item ul {
+  list-style: none;
+  padding: 0;
+}
+
+.resume-item ul li {
+  margin-bottom: 0.5rem;
+  padding-left: 1rem;
+  text-indent: -1rem;
+}
+
+.resume-item ul li::before {
+  content: "•";
+  color: #b38600;
+  margin-right: 0.5rem;
 }
 
 /* Responsive Design */
+.resume-columns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.resume-column {
+  flex: 1;
+  min-width: 300px;
+}
+
 @media (max-width: 768px) {
-  .container {
+  .resume-columns {
     flex-direction: column;
-    margin: 1rem;
-  }
-  
-  .sidebar, .content {
-    width: 100%;
-    padding: 1.5rem;
   }
 }
+
