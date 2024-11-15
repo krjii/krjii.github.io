@@ -1,6 +1,6 @@
 # Basic site settings
 title: "Kevin R. James - Software Engineering Resume"
-description: "Kevin R. James' professional resume showcasing experience, education, and skills."
+#description: "Kevin R. James' professional resume showcasing experience, education, and skills."
 baseurl: "" # Leave blank for root
 url: "https://github.com/krjii/krjii.github.io"
 

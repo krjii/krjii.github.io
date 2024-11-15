@@ -1,16 +1,6 @@
 ---
-layout: default
+layout: resume_with_sidebar
 title: "Kevin R. James - Resume"
----
-
-<div class="header">
-  <h1>Kevin R. James</h1>
-  <p>
-    <strong>Email:</strong> <a href="mailto:kevinrjamesii@outlook.com">kevinrjamesii@outlook.com</a> |
-    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kevinrjamesii" target="_blank">kevinrjamesii</a>
-  </p>
-</div>
-
 ---
 
 ### 🎯 Purpose
@@ -90,7 +80,6 @@ Strategic leader in **systems engineering, software development,** and **project
 - Contributed to the development of the NEXRAD system bus interface and Analog-to-Digital signal processing algorithms using Xilinx Spartan 6 FPGA and VHDL technology.  
 - Analyzed electrical schematics for radar systems, soldered and repaired analog circuits, and performed circuit analysis using multi-meters and Analog/Digital Oscilloscopes, ensuring hardware met schematic specifications.
 
-
 ---
 
 ### 🤝 Professional Memberships & Volunteer Experience
@@ -99,4 +88,3 @@ Strategic leader in **systems engineering, software development,** and **project
 - **Volunteer**: Boeing Mentorship Program, Habitat for Humanity, NSBE STEM Outreach  
 
 ---
-

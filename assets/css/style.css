@@ -1,0 +1,66 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  max-width: 1200px;
+  width: 100%;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+/* Sidebar Styling */
+.sidebar {
+  width: 30%;
+  background-color: #f4f4f4;
+  padding: 1rem;
+  border-right: 2px solid #007acc;
+  box-sizing: border-box;
+}
+
+.sidebar h2 {
+  color: #0056b3;
+}
+
+.sidebar h3 {
+  margin-top: 1.5rem;
+  color: #343a40;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar ul li {
+  margin: 0.5rem 0;
+}
+
+/* Main Content Styling */
+.content {
+  width: 70%;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+.content h2, .content h3 {
+  color: #343a40;
+  margin-top: 1.5rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+  
+  .sidebar, .content {
+    width: 100%;
+  }
+}
