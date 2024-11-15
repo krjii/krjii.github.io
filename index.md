@@ -24,18 +24,38 @@ Strategic leader in **systems engineering, software development,** and **project
 
 ---
 
-### 🎓 Education
+### 👔 Professional Experience
 
-- **Rice University**  
-  *M.S. Engineering Leadership & Management | Data Science Specialization (Expected May 2025)*  
-  **Relevant Coursework:** Product Management, Project Management, Data Visualization, Engineering Leadership, Engineering Ethics
+#### The Boeing Company – Houston, TX
 
-- **University of Oklahoma**  
-  *M.S. Electrical & Computer Engineering | 2009*  
-  **Thesis:** Travel Time Prediction in Sparse Sensor Networks
+**Lead Engineer, Automation and Software Engineering | 2021 – Present**  
+- Led requirements sessions with cross-functional teams to define and implement scalable architectures, reducing development time by 40% and saving 80 hours of manual work per week.
+- Oversaw automation initiatives, integrating CI/CD pipelines to improve deployment efficiency and software quality.
+- Mentored and trained a team of 5 junior engineers, introducing modern development practices and frameworks to enhance productivity and code quality.
+- Collaborated with stakeholders to align engineering efforts with business objectives, ensuring project milestones and deliverables met strategic goals.
 
-- **Southern University and A&M College**  
-  *B.S. Computer Science | 2005*  
+**Lead Simulation Software Engineer, Starliner CST-100 Simulation Training Systems | 2021 – 2022**  
+- Established a remote simulation infrastructure, which reduced problem response time from over 3 hours to 1 hour, resulting in over $500,000 in cost savings.
+- Conducted trade space analyses to identify and prioritize cost-effective solutions for simulation training, optimizing both budget constraints and training efficacy.
+- Implemented remote operations that enabled virtual testing and problem-solving under tight deadlines, significantly reducing the need for on-site visits.
+
+**Lead, Distributed Real-Time Control Systems for SLS | 2017 – 2021**  
+- Developed a DO-178C compliant control system for NASA’s Green Run Test, achieving real-time response capabilities with a latency under 0.05 seconds.
+- Collaborated with multi-disciplinary teams to address and mitigate risks, achieving a 65% reduction in identified project risks.
+- Designed distributed control systems architecture, which enhanced performance and reliability for high-stakes aerospace operations.
+
+#### SAIC – Oklahoma City, OK
+
+**Software Engineer, Federal Aviation Administration | 2013 – 2016**  
+- Developed and maintained air traffic control software for the Federal Aviation Administration using C# and modern design patterns.
+- Streamlined code quality and implemented architectural best practices, resulting in a 40% reduction in the bug backlog.
+- Contributed to the migration of legacy systems, enhancing performance and aligning with updated industry standards.
+
+#### NOAA – Engineering Intern | 2009 – 2011  
+- Assisted in the development of requirement specifications, concept definitions, cost analysis, and performance trade-offs for FPGA system architectures to explore the feasibility of converting legacy analog radar systems to digital.
+- Created parts lists, component specifications, Interface I/O documentation, electrical schematics, and conducted functional simulations to support FPGA-based radar system development on the Xilinx Spartan 6 FPGA using VHDL.
+- Supported the development of the NEXRAD system bus interface and Analog-to-Digital signal processing algorithms with Xilinx Spartan 6 FPGA and VHDL technology.
+- Analyzed electrical schematics for radar systems, soldered and repaired analog circuits, and performed circuit analysis using multi-meters and Analog/Digital Oscilloscopes to ensure hardware met schematic specifications.
 
 ---
 
@@ -46,68 +66,10 @@ Strategic leader in **systems engineering, software development,** and **project
 
 ---
 
-### 💡 Core Competencies
-
-#### Product/Project Management
-- **Strategic Planning & Roadmapping**: Defining product and project roadmaps aligned with business goals.
-- **Requirements Gathering & Prioritization**: Engaging stakeholders to identify needs and prioritize feature development.
-- **Risk Management & Mitigation**: Proactively identifying and addressing potential risks to ensure project success.
-- **Agile & Lean Methodologies**: Expertise in Scrum, Kanban, and Lean practices to optimize project delivery and team efficiency.
-- **Stakeholder Engagement & Communication**: Building strong relationships and maintaining clear communication with all project stakeholders.
-
-#### Full Development Lifecycle
-- **SDLC Management**: Comprehensive knowledge of each SDLC phase, from initial planning through deployment and maintenance.
-- **Automated Testing & Continuous Integration (CI/CD)**: Implementing CI/CD pipelines to enhance release quality and frequency.
-- **Requirements Engineering**: Structuring and managing detailed technical and functional requirements.
-- **Quality Assurance & Code Review**: Ensuring product quality and maintainability through rigorous testing and peer reviews.
-- **Documentation & Knowledge Transfer**: Creating and managing clear documentation to support handoffs and long-term project sustainability.
-
-#### Architecture of Complex Systems
-- **System Design & Architecture**: Designing scalable, modular, and resilient architectures to handle complex requirements.
-- **Model-Based Systems Engineering (MBSE)**: Utilizing MBSE techniques and tools (e.g., Cameo) for detailed system modeling and traceability.
-- **Integration & Interoperability**: Ensuring system components work seamlessly within broader architectures and with external systems.
-- **Performance Optimization**: Enhancing system performance through efficient algorithms, architecture, and resource management.
-- **Compliance & Standards**: Ensuring systems adhere to industry standards (e.g., DO-178C) and regulatory requirements.
-
-#### Leadership
-- **Team Development & Mentorship**: Guiding and developing team members to reach their full potential.
-- **Cross-Functional Collaboration**: Working effectively with diverse teams, from engineering to business stakeholders.
-- **Decision-Making & Problem-Solving**: Making informed decisions and solving complex issues under pressure.
-- **Change Management**: Leading teams through change, ensuring alignment, and minimizing disruption.
-- **Vision & Goal Setting**: Setting clear objectives aligned with the organization's mission and driving towards achievement.
-
----
-
-### 👔 Professional Experience
-
-#### The Boeing Company – Houston, TX
-
-**Lead Engineer, Automation and Software Engineering | 2021 – Present**  
-- Led requirements sessions with cross-functional teams, implementing scalable architectures that reduced development time by 40% and saved 80 hours of manual work per week.  
-- Mentored a team of junior engineers, introducing modern development practices and frameworks.
-
-**Lead Simulation Software Engineer, Starliner CST-100 Simulation Training Systems | 2021 – 2022**  
-- Created a remote simulation infrastructure, cutting response time from over 3 hours to 1 hour and saving over $500,000 in costs.
-
-**Lead, Distributed Real-Time Control Systems for SLS | 2017 – 2021**  
-- Developed a DO-178C compliant control system for NASA’s Green Run Test, achieving rapid response times and reducing operational risks by 65%.
-
-#### SAIC – Oklahoma City, OK
-
-**Software Engineer, Federal Aviation Administration | 2013 – 2016**  
-- Developed air traffic control software with C#; reduced the bug backlog by 40% through implementation of architectural best practices.
-
-#### NOAA – Engineering Intern | 2009 – 2011  
-- Assisted with developing requirement specifications, concept definitions, cost analysis, and performance trade-offs for various FPGA system architectures, assessing the feasibility of converting legacy analog radar technologies to digital systems.  
-- Generated parts lists, component specifications, Interface I/O documentation, electrical schematics, and functional simulations to support FPGA-based radar system development using Xilinx Spartan 6 FPGA and VHDL.  
-- Contributed to the development of the NEXRAD system bus interface and Analog-to-Digital signal processing algorithms using Xilinx Spartan 6 FPGA and VHDL technology.  
-- Analyzed electrical schematics for radar systems, soldered and repaired analog circuits, and performed circuit analysis using multi-meters and Analog/Digital Oscilloscopes, ensuring hardware met schematic specifications.
-
----
-
 ### 🤝 Professional Memberships & Volunteer Experience
 - **Vice President**, NSBE Houston Professionals (2024-25) – Leading strategic initiatives in professional development and outreach.
 - **Member**: NSBE, IEEE, ACM  
 - **Volunteer**: Boeing Mentorship Program, Habitat for Humanity, NSBE STEM Outreach  
 
 ---
+
