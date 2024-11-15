@@ -68,8 +68,8 @@ Strategic leader in **systems engineering, software development,** and **project
 #### The Boeing Company – Houston, TX
 
 **Lead Engineer, Automation and Software Engineering | 2021 – Present**  
-- **Multithreading Optimization**: Implemented multithreading in data processing workflows, optimizing resource utilization across CPU cores and achieving a 50% improvement in processing time.
-- **Concurrency Management**: Designed thread-safe, concurrent systems using synchronization techniques (locks, semaphores) to ensure stability and prevent race conditions.
+- Implemented multithreading in data processing workflows, optimizing resource utilization across CPU cores and achieving a 50% improvement in processing time.
+- Designed thread-safe, concurrent systems using synchronization techniques (locks, semaphores) to ensure stability and prevent race conditions.
 - Led requirements sessions with cross-functional teams, implementing scalable architectures that reduced development time by 40% and saved 80 hours of manual work per week.
 - Mentored a team of junior engineers, introducing modern development practices and frameworks.
 
@@ -86,6 +86,7 @@ Strategic leader in **systems engineering, software development,** and **project
 **Software Engineer, Federal Aviation Administration | 2013 – 2016**  
 - Developed air traffic control software with C#, utilizing multithreading to handle concurrent flight data processing, improving system throughput.
 - Reduced the bug backlog by 40% through implementation of architectural best practices.
+- Designed and tested concurrent data handling modules to improve system scalability and responsiveness.
 
 #### NOAA – Engineering Intern | 2009 – 2011  
 - Assisted with developing requirement specifications, concept definitions, cost analysis, and performance trade-offs for various FPGA system architectures, assessing the feasibility of converting legacy analog radar technologies to digital systems.
