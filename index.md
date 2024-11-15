@@ -11,14 +11,11 @@ title: "Kevin R. James - Resume"
 
 ---
 
-### 🎯 Purpose
-> **Empowering organizations to thrive in complex, high-stakes environments through strategic engineering and project leadership.**  
-> Leveraging expertise in systems engineering, software development, and product management, I drive innovation, optimize operational efficiency, and align projects with long-term business objectives.
+### 🎯 Professional Vision
 
----
+**Inspiring transformative change by empowering organizations and individuals to achieve their fullest potential.**  
 
-### 💼 Professional Summary
-Strategic leader in **systems engineering, software development,** and **project management** with a track record of delivering solutions that enhance operational performance and reduce risks. Expert in designing complex systems, optimizing workflows, and mentoring engineers to foster continuous improvement and innovation.
+With a vision for a more connected, innovative, and sustainable world, I combine systems thinking, strategic leadership, and technical expertise to deliver impactful solutions. As a seasoned professional in **systems engineering, software development,** and **project management**, I excel in designing innovative systems, optimizing workflows, and mentoring teams to drive continuous improvement. My mission is to tackle complex challenges, align projects with strategic goals, and create lasting value for communities and industries globally.
 
 ---
 
