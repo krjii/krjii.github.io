@@ -6,8 +6,8 @@
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="/assets/css/style.css">
   <!-- Include html2pdf.js -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.2/html2pdf.bundle.min.js"></script>
 </head>
+
 <body>
   <div class="container">
     <!-- Sidebar Section -->
@@ -49,27 +49,6 @@
     <main class="content">
       {{ content }}
     </main>
-	
-	<!-- Button to Save as PDF -->
-	<button onclick="generatePDF()" 
-		style="position: fixed; bottom: 20px; right: 20px; padding: 10px 20px; background-color: #b38600; color: #fff; border: none; border-radius: 5px; cursor: pointer;">
-	    Save as PDF
-	</button>
-		
-	<!-- JavaScript to Generate PDF -->
-    <script>
-      function generatePDF() {
-        const element = document.getElementById('content-to-save');
-        
-        // Ensure html2pdf library is loaded
-        if (typeof html2pdf === 'undefined') {
-          alert("PDF generation library (html2pdf.js) not loaded.");
-          return;
-        }
-        
-        html2pdf().from(element).save();
-      }
-    </script>
   </div>
 </body>
 </html>
