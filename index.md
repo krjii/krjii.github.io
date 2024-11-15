@@ -22,10 +22,23 @@ Strategic leader in **systems engineering, software development,** and **project
 
 ---
 
-### 📜 Professional Certifications
+## 📜 Professional Certifications
 - **Architecture of Complex Systems** — MIT XPRO, 03/2021  
 - **Leadership At All Levels** — MIT XPRO, 05/2020  
 - **Data Science and Big Data Analytics** — MIT XPRO, 06/2020  
+
+## 🎓 Education
+
+- **Rice University**  
+  *M.S. Engineering Leadership & Management | Data Science Specialization (Expected May 2025)*  
+  **Relevant Coursework:** Product Management, Project Management, Data Visualization, Engineering Leadership, Engineering Ethics
+
+- **University of Oklahoma**  
+  *M.S. Electrical & Computer Engineering | 2009*  
+  **Thesis:** Travel Time Prediction in Sparse Sensor Networks
+
+- **Southern University and A&M College**  
+  *B.S. Computer Science | 2005*  
 
 ---
 
