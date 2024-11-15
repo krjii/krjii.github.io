@@ -3,13 +3,11 @@ layout: resume_with_sidebar
 title: "Kevin R. James - Resume"
 ---
 
-<div class="header">
-  <h1>Kevin R. James</h1>
-  <p>
-    <strong>Email:</strong> <a href="mailto:kevinrjamesii@outlook.com">kevinrjamesii@outlook.com</a> |
-    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kevinrjamesii" target="_blank">kevinrjamesii</a>
-  </p>
-</div>
+## Kevin R. James
+
+**Email:** [kevinrjamesii@outlook.com](mailto:kevinrjamesii@outlook.com)  
+**LinkedIn:** [![LinkedIn](/assets/icons/linkedin_img.icons8.png)](https://www.linkedin.com/in/kevinrjamesii)    
+**GitHub:** [github.com/kevinrjames](https://github.com/kevinrjames)
 
 ---
 
