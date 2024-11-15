@@ -78,17 +78,6 @@ Strategic leader in **systems engineering, software development,** and **project
 
 ---
 
-### 🔧 Technical Proficiency
-
-- **Languages**: Python, C#, C++  
-- **Development Tools**: DevOps, Automated Testing, Git, Docker, Kubernetes  
-- **Cloud & Infrastructure**: AWS, IaC (Infrastructure as Code), Serverless Architecture  
-- **Data Visualization**: Matplotlib, Seaborn, Plotly  
-- **Development Methodologies**: FDD, DDD, TDD  
-- **Frameworks & Libraries**: ASP.NET Core (C#), Qt, NLTK, scikit-learn, Matplotlib
-
----
-
 ### 👔 Professional Experience
 
 #### The Boeing Company – Houston, TX
