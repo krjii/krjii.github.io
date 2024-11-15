@@ -1,8 +1,8 @@
 # Basic site settings
-title: "Kevin R. James - Resume"
+title: "Kevin R. James - Software Engineering Resume"
 description: "Kevin R. James' professional resume showcasing experience, education, and skills."
 baseurl: "" # Leave blank for root
-url: "https://your-gitlab-username.gitlab.io/your-repo-name"
+url: "https://github.com/krjii/krjii.github.io"
 
 # Markdown settings
 markdown: kramdown
@@ -14,42 +14,38 @@ kramdown:
 # Theme - Use a simple, clean theme that enhances readability (e.g., Jekyll's "minima" theme or a custom theme)
 theme: minima
 
-# Optional: Custom CSS for additional styling
+# Plugins
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
 
-# CSS file (for custom styles)
+# Optional: Custom CSS for additional styling
 sass:
   style: compressed
   sass_dir: _sass
+custom_css: "/assets/css/custom.css"
 
 # Exclude from processing
 exclude:
   - README.md
   - LICENSE
 
-# Custom CSS overrides (add this in a CSS file within your repository, e.g., `assets/css/custom.css`)
-custom_css: "/assets/css/custom.css"
-
 # Navigation menu setup (optional)
 header_pages:
-  - /index.md
-
-custom_css: "/assets/css/custom.css"
-
-# Custom Markdown styling (optional): Configure a CSS file with styles to format each section distinctly
-# In assets/css/custom.css, you can add CSS styling like:
-# .header { background-color: #f4f4f4; padding: 1rem; border-radius: 6px; }
-# .section-title { color: #0056b3; font-weight: bold; margin-top: 1.5rem; }
+  - index.md
 
 # SEO and social media settings
 social_links:
-  linkedin: "https://www.linkedin.com/in/kevinrjames"
+  linkedin: "https://www.linkedin.com/in/kevinrjamesii"
   email: "kevinrjamesii@outlook.com"
   github: "https://github.com/kevinrjames"
   twitter: "https://twitter.com/kevinjames"
-  
+
 # Optional: Google Analytics or other tracking
 google_analytics: UA-XXXXXXXXX-X
+
+# Custom Markdown styling (optional): Configure a CSS file with styles to format each section distinctly
+# Add a custom.css file in assets/css/custom.css with example styles such as:
+# .header { background-color: #f4f4f4; padding: 1rem; border-radius: 6px; }
+# .section-title { color: #0056b3; font-weight: bold; margin-top: 1.5rem; }

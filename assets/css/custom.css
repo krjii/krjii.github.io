@@ -1,31 +1,63 @@
-/* Custom styles for resume sections */
-.header {
-    background-color: #f4f4f4;
-    padding: 20px;
-    border-radius: 8px;
-    text-align: center;
-    margin-bottom: 20px;
+/* General Section Styling */
+.highlight-purpose,
+.highlight-summary,
+.highlight-education,
+.highlight-certifications,
+.highlight-core,
+.highlight-technical,
+.highlight-experience,
+.highlight-memberships {
+    background-color: #f9f9f9;
+    border-left: 4px solid #007acc;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    border-radius: 6px;
 }
 
-.section-title {
-    color: #0056b3;
-    font-weight: bold;
-    margin-top: 20px;
-    font-size: 1.5em;
+/* Purpose Section */
+.highlight-purpose {
+    background-color: #eef7fa;
+    border-left-color: #0056b3;
 }
 
-.highlight {
-    background-color: #e6f2ff;
-    padding: 10px;
-    border-radius: 8px;
+/* Summary Section */
+.highlight-summary {
+    background-color: #fdf1e6;
+    border-left-color: #ff6f00;
 }
 
-.skill-item {
-    display: inline-block;
-    background-color: #d9ecff;
-    padding: 8px 12px;
-    margin: 5px;
-    border-radius: 8px;
-    font-size: 14px;
-    font-weight: bold;
+/* Education Section */
+.highlight-education {
+    background-color: #f0f8ff;
+    border-left-color: #007acc;
+}
+
+/* Certifications Section */
+.highlight-certifications {
+    background-color: #f0fff4;
+    border-left-color: #28a745;
+}
+
+/* Core Competencies Section */
+.highlight-core {
+    background-color: #fffaf0;
+    border-left-color: #ffc107;
+}
+
+/* Technical Proficiency Section */
+.highlight-technical {
+    background-color: #f8f9fa;
+    border-left-color: #6c757d;
+}
+
+/* Experience Section */
+.highlight-experience {
+    background-color: #f9f9f9;
+    border-left-color: #343a40;
+}
+
+/* Memberships Section */
+.highlight-memberships {
+    background-color: #f0f5ff;
+    border-left-color: #6610f2;
 }
