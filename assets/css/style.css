@@ -64,3 +64,9 @@ body {
     width: 100%;
   }
 }
+
+.sidebar p i {
+  margin-right: 5px;
+  color: #007acc;
+}
+
