@@ -5,9 +5,9 @@ title: "Kevin R. James - Resume"
 
 ## Kevin R. James
 
-**Email:** [kevinrjamesii@outlook.com](mailto:kevinrjamesii@outlook.com)  
-**LinkedIn:** [![LinkedIn](/assets/icons/linkedin_img.icons8.png)](https://www.linkedin.com/in/kevinrjamesii)    
-**GitHub:** [github.com/kevinrjames](https://github.com/kevinrjames)
+[![Email](/assets/icons/email_icon.png){: style="height: 20px;"}](mailto:kevinrjamesii@outlook.com)
+[![LinkedIn](/assets/icons/linkedin_img.icons8.png){: style="height: 20px;"}](https://www.linkedin.com/in/kevinrjamesii)
+[![GitHub](/assets/icons/github_.icons8.png){: style="height: 20px;"}](https://github.com/kevinrjames)
 
 ---
 
